@@ -1,5 +1,6 @@
 # simple-vcf-loader
-A very very simple program to manage vcf files and search over them
+A very very simple program to manage vcf files and search over them ( Written in *cpp* )
+
 ***
 1. Simple to use
 2. Like a terminal
