@@ -298,6 +298,8 @@ int main()
                                             item.mobile = line;
                                         }
                                     }
+                                    else                                    
+                                        item.mobile = "-";                                    
                                 }
                             }
 
